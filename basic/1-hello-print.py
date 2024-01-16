@@ -1,3 +1,3 @@
-### Printing the hello world
+# Printing the hello world
 
 print ("Hi dhinakaran, How are you")
